@@ -1,0 +1,10 @@
+body {
+    background: #f5d9d5;
+    font-family: "Nunito", sans-serif;
+}
+
+h1 {
+    color : yellow; 
+    background-color: black; 
+    justify-content: center;
+}
